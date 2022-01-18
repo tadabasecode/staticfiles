@@ -6,6 +6,20 @@
   "display": "minimal-ui",
   "Scope": "/",
   "start_url": "/#!/login",
+  "shortcuts": [
+    {
+      "name": "How's weather today?",
+      "short_name": "Today",
+      "description": "View weather information for today",
+      "url": "/today?source=pwa"
+    },
+    {
+      "name": "How's weather tomorrow?",
+      "short_name": "Tomorrow",
+      "description": "View weather information for tomorrow",
+      "url": "/tomorrow?source=pwa"
+    }
+  ],
   "icons": [
     {
       "src": "https://ucarecdn.com/554d3ecc-2271-462d-bbf1-c4f0a566d300/icon72x72.png",
