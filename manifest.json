@@ -1,0 +1,51 @@
+{
+  "name": "My Tadabase App",
+  "short_name": "Project Management",
+  "theme_color": "#FF6600",
+  "background_color": "#212C3B",
+  "display": "minimal-ui",
+  "Scope": "/",
+  "start_url": "/#!/login",
+  "icons": [
+    {
+      "src": "https://ucarecdn.com/554d3ecc-2271-462d-bbf1-c4f0a566d300/icon72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/ac1d85af-c8d9-4276-ac37-e499b4eb35a4/icon96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/cf61de06-9c48-4d5c-84a3-658b2c4fc7f0/icon128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/d3d54d72-15a0-4836-acd2-07ac58f13486/icon144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/768ffa74-cbbd-413a-bcfd-bb9db0a4b932/icon152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/1addaa34-559b-414d-80f4-fc54ca30ac1a/icon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/3ace464d-febf-48b1-9ab4-08609a3a76c6/icon384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/5ac2c160-c958-4f98-96f9-391aa4e839ae/icon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
